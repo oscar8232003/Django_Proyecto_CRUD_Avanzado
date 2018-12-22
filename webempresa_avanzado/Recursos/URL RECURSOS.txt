@@ -1,0 +1,128 @@
+56
+https://github.com/hcosta/web-playground-curso-django-2/tree/master/webplayground/core
+
+57 importante
+https://ccbv.co.uk/
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/base/#templateview
+
+59
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-display/#django.views.generic.list.ListView
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-display/#django.views.generic.detail.DetailView
+
+60
+https://gist.github.com/hcosta/143950b40dda8cf640076a629cec7f09
+https://gist.github.com/hcosta/456df0769f153a2458e711d3f78b75a2
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/#django.views.generic.edit.CreateView
+
+61
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/#django.views.generic.edit.UpdateView
+
+62
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/#django.views.generic.edit.DeleteView
+https://gist.github.com/hcosta/586f1354e662a25d43a1b2e66403eda9
+
+63
+https://github.com/django-ckeditor/django-ckeditor#outside-of-django-admin
+https://gist.github.com/hcosta/15ae0835e5824685d46e75f49efc1bcb
+https://docs.djangoproject.com/en/2.0/topics/forms/
+
+64 *IMPORTANTE, EL TEMA DE SESIONES Y REDIRECCIONAR
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/mixins/
+
+65 * IMPORTANTE, EL TEMA DE VERIFICACIONES
+https://docs.djangoproject.com/en/2.0/topics/auth/default/#the-login-required-decorator
+https://docs.djangoproject.com/en/2.0/topics/auth/default/#the-permission-required-decorator
+https://docs.djangoproject.com/en/2.0/_modules/django/contrib/admin/views/decorators/
+https://docs.djangoproject.com/en/2.0/topics/class-based-views/intro/#decorating-class-based-views
+
+66 *TEMA SOBRE REGISTRO DE USUARIO
+https://gist.github.com/hcosta/7c3a46d5e5d061d936031ad5a6654acd
+https://docs.djangoproject.com/en/2.0/topics/auth/
+https://docs.djangoproject.com/en/2.0/ref/contrib/auth/#django.contrib.auth.models.User
+https://docs.djangoproject.com/en/2.0/topics/auth/default/#django.contrib.auth.views.LoginView
+
+67 *Tema sobre el cierre de sesion
+https://docs.djangoproject.com/en/2.0/topics/auth/default/#django.contrib.auth.views.LogoutView
+
+68 *Creando el form de registro sin enchularlo
+https://docs.djangoproject.com/en/2.0/ref/contrib/auth/#django.contrib.auth.models.User
+https://docs.djangoproject.com/en/2.0/topics/auth/default/#module-django.contrib.auth.forms
+https://github.com/hcosta/web-playground-curso-django-2/tree/master/webplayground/registration
+
+69
+https://ccbv.co.uk/projects/Django/2.0/django.views.generic.edit/FormView/#get_form
+
+71 *Validacion de email para que no se repita
+https://docs.djangoproject.com/en/2.0/ref/forms/validation/#cleaning-a-specific-field-attribute
+
+72
+https://docs.djangoproject.com/en/2.0/topics/email/#email-backends
+https://github.com/django/django/tree/master/django/contrib/admin/templates/registration
+
+73 Tipos de relaciones en campos de tablas
+OneToOneField(1:1) 1 ususario- 1 perfil
+FerignKeyField (1:N) 1autor <- N entradas
+ManyToManyField (N:M) N entradas <-> M categorias
+
+TENER EN CUENTA QUE PARA SUBIR IMAGENES TIENES QUE TENER INSTALADO EN TU ENTORNO VIRTUAL PILLOW, VERIFICA CON UN PIP LIST EN SCRIPTS
+
+75
+https://gist.github.com/hcosta/3302f2cf81b71872c503b405adfb1708
+
+76
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/#django.views.generic.edit.UpdateView
+
+77
+https://github.com/django/django/tree/master/django/contrib/admin/templates/registration
+
+78
+https://docs.djangoproject.com/en/2.0/topics/signals/
+
+79 **PRUEBAS UNITARIAS 
+https://docs.djangoproject.com/en/2.0/topics/testing/overview/
+https://github.com/hcosta/Python-3-al-completo-desde-cero/blob/master/Fase%204%20-%20Temas%20avanzados/Tema%2016%20-%20Documentaci%C3%B3n%20y%20Pruebas/Lecci%C3%B3n%2004%20(Apuntes)%20-%20Unittest.ipynb
+
+80 **DOCUMENTACION SOBRE EL UPLOAD_TO PARA IMAGENES
+https://docs.djangoproject.com/en/2.0/ref/models/fields/#django.db.models.FileField.upload_to
+
+83 **PAGINADOR!!
+https://gist.github.com/hcosta/1c29ac407b6d23afab505ab8cb1ccb36
+https://docs.djangoproject.com/en/2.0/topics/pagination/
+https://getbootstrap.com/docs/4.0/components/pagination/
+
+84
+https://es.wikipedia.org/wiki/Cinco_W
+https://github.com/hcosta/web-playground-curso-django-2/tree/master/webplayground/messenger
+
+85
+https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas
+https://docs.djangoproject.com/en/2.0/topics/testing/
+
+86
+https://docs.djangoproject.com/en/2.0/ref/signals/#m2m-changed
+
+87
+https://docs.djangoproject.com/en/2.0/topics/db/managers/
+
+89
+https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch
+
+90
+https://developers.google.com/web/updates/2015/03/introduction-to-fetch#sending_credentials_with_a_fetch_request
+
+91
+https://gist.github.com/hcosta/2fc16ecea0a916930fa8559508d50038
+
+
+
+
+
+
+
+
+
+
+
+
+
