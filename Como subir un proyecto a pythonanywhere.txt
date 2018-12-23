@@ -84,5 +84,7 @@ MEDIA_URL = '/media/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
-y un save y apretar el RUN y listo esta configurado para andar en pythonanywhere
+y un save, aho ra hay que ir al bash y poner un ulitmo comando para poder colectar los archivos staticos
+-python manage.py collectstatic
 
+y listo tenemos el proyecto andando.
